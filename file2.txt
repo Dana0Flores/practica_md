@@ -1,0 +1,1 @@
+Este es un nuevo archivo (Archivo 2) de la práctica de Git con MD.
